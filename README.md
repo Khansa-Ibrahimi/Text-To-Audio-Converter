@@ -1,14 +1,14 @@
-#Text to Audio Converter
+# Text to Audio Converter
 
 This is a simple application that takes pdf files and coverts them into .mp3 files. It uses tkinter for the GUI, pyttsx3 for text-to-speech conversion, and PyPDF2 for PDF file handling.
 
-#Features
--**Upload Button:** Allows the user to upload the pdf
--**Audio Button:** Converts the pdf to an audtion file
--**Pop-Up Messages:**: Inform the users about each step that has been executed
+## Features
+- **Upload Button:** Allows the user to upload the pdf
+- **Audio Button:** Converts the pdf to an audtion file
+- **Pop-Up Messages:**: Inform the users about each step that has been executed
 
-##Future Plans
--**Convert Audio to Text:** Introduce functionality to transcribe audio files (such as .mp3 or .wav) into text documents.
+## Future Plans
+- **Convert Audio to Text:** Introduce functionality to transcribe audio files (such as .mp3 or .wav) into text documents.
 
 ## Getting Started
 
